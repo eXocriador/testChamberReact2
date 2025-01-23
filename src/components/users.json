@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "username": "John Doe",
+        "email": "user1@example.com",
+        "online": true,
+        "bio": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "id": 2,
+        "username": "Jane Smith",
+        "email": "user2@example.com",
+        "online": false,
+        "bio": "Consectetur adipiscing elit."
+    },
+    {
+        "id": 3,
+        "username": "Alice Johnson",
+        "email": "user3@example.com",
+        "online": true,
+        "bio": "Sed do eiusmod tempor incididunt."
+    },
+    {
+        "id": 4,
+        "username": "Bob Brown",
+        "email": "user4@example.com",
+        "online": false,
+        "bio": "Ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 5,
+        "username": "Charlie Davis",
+        "email": "user5@example.com",
+        "online": true,
+        "bio": "Ut enim ad minim veniam."
+    },
+    {
+        "id": 6,
+        "username": "Diana Evans",
+        "email": "user6@example.com",
+        "online": false,
+        "bio": "Quis nostrud exercitation ullamco."
+    },
+    {
+        "id": 7,
+        "username": "Ethan Harris",
+        "email": "user7@example.com",
+        "online": true,
+        "bio": "Laboris nisi ut aliquip ex ea commodo."
+    },
+    {
+        "id": 8,
+        "username": "Fiona Clark",
+        "email": "user8@example.com",
+        "online": false,
+        "bio": "Duis aute irure dolor in reprehenderit."
+    },
+    {
+        "id": 9,
+        "username": "George Lewis",
+        "email": "user9@example.com",
+        "online": true,
+        "bio": "In voluptate velit esse cillum dolore."
+    },
+    {
+        "id": 10,
+        "username": "Hannah Walker",
+        "email": "user10@example.com",
+        "online": false,
+        "bio": "Eu fugiat nulla pariatur."
+    }
+]
+        

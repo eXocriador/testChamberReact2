@@ -1,0 +1,40 @@
+.products-list {
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  justify-content: center;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product img {
+  width: 240px;
+  background-size: auto;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.card {
+  box-shadow: 2px 2px 6px 6px lightgray;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  @media (min-width: 768px) {
+    background-color: red;
+    font-size: 0.8rem;
+    & button {
+      background-color: teal;
+      &:hover {
+        background-color: black;
+        cursor: pointer;
+      }
+    }
+  }
+}
